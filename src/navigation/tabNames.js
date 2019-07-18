@@ -1,0 +1,5 @@
+export const HOME = 'Home'
+export const My_LIST = 'MyList'
+export const SCHEDULE = 'Schedule'
+export const SESSION = 'Sessions'
+export const INFO = 'Info'

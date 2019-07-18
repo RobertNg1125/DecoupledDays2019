@@ -1,0 +1,7 @@
+export const LOADING = 'Loading'
+export const HOME = 'Home'
+export const SESSIONS = 'Sessions'
+export const SESSION_NODE = 'Session_Node'
+export const SCHEDULE = 'Schedule'
+export const SCHEDULE_DAY_1 = 'Schedule_Day_1'
+export const SCHEDULE_DAY_2 = 'Schedule_Day_2'
