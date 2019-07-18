@@ -1,0 +1,8 @@
+app_identifier("com.atelier18.decoupleddays2019") # The bundle identifier of your app
+apple_id("robertngo.18@gmail.com") # Your Apple email address
+
+itc_team_id("120019865") # App Store Connect Team ID
+team_id("7D6FWBWC43") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
